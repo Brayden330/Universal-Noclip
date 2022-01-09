@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Brayden330/Universal-Noclip/main/Universal%20Noclip.lua'))()
